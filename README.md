@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Lucasnobrepro/Lucasnobrepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lucasnobrepro/Lucasnobrepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 👯 I am looking to collaborate in development teams and data scientist, in order to gain experience and learning.
 - 📫 How to reach me: https://www.linkedin.com/in/lucas-nobre-47a281165/
 - ⚡ Fun fact: I like anime and games.
--->
+
