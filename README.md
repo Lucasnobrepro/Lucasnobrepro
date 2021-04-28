@@ -1,4 +1,4 @@
-## My I am Lucas Nobre ;-)
+## ⚡Lucas Nobre ⚡
 
 ### Hi there 👋
 
