@@ -5,8 +5,6 @@
 <!--
 **Lucasnobrepro/Lucasnobrepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 
 - 💬 I am Undergraduate student in Computer Engineering at the Federal University of Ceará - (UFC). I solve problems.
 - 🌱 I’m currently learning Tensorflow, Deep Learning and Big Data.
