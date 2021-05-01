@@ -12,9 +12,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lucas-nobre-pro/)
 - ⚡ Fun fact: I like anime and games.
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
 <h3 align="center"></h3>
 
 
