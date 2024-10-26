@@ -4,13 +4,30 @@
 
 <!--
 **Lucasnobrepro/Lucasnobrepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## BIO
+- 💬 I have a Bachelor's degree in Computer Engineering from the Federal University of Ceará (UFC), specializing in problem-solving.
+- 🌱 Currently learning TensorFlow, Deep Learning, and Big Data.
+- 👯 With 5 years of experience as a Data Engineer, I’m looking to collaborate with development teams and data scientists to further expand my skills.
+- 📈 Work experience includes:
+  - Creating a Data Catalog and Data Lineage
+  - Data Streaming
+  - Big Data environments
+  - ETL/ELT processes
+  - Implementing a Data Lake on the cloud (AWS, Databricks)
+  - Using Terraform
+  - Solid knowledge of GitLab and GitLab CI/CD
+  - Proficient in programming languages (Python, Scala, Java, C, C++)
+  - Strong knowledge of AWS
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-nobre-pro/)
+- ⚡ Fun fact: I enjoy anime and gaming!
+- 🧩 I am curious, adaptable, and easygoing, always open to new challenges.
 
+### Certifications:
+- AWS Solution Architect Associate
+- Airflow Fundamentals
+- Databricks Lakehouse
+- Kafka Fundamentals
 
-- 💬 I'm Computer Engineering at the Federal University of Ceará - (UFC). I solve problems.
-- 🌱 I'm currently learning Tensorflow, Deep Learning and Big Data.
-- 👯 I'm looking to collaborate in development teams and data scientist, in order to gain experience and learning.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lucas-nobre-pro/)
-- ⚡ Fun fact: I like anime and games.
 
 <h3 align="center"></h3>
 
