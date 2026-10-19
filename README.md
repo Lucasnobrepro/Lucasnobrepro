@@ -1,40 +1,104 @@
-## ⚡Lucas Nobre ⚡
+# Hi, I'm Lucas Nobre 👋
 
-### Hi there 👋
+### Senior Data Engineer | AWS | Databricks | PySpark | Python | SQL
 
-<!--
-**Lucasnobrepro/Lucasnobrepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## BIO
-- 💬 I have a Bachelor's degree in Computer Engineering from the Federal University of Ceará (UFC), specializing in problem-solving.
-- 🌱 Currently learning TensorFlow, Deep Learning, and Big Data.
-- 👯 With 5 years of experience as a Data Engineer, I’m looking to collaborate with development teams and data scientists to further expand my skills.
-- 📈 Work experience includes:
-  - Creating a Data Catalog and Data Lineage
-  - Data Streaming
-  - Big Data environments
-  - ETL/ELT processes
-  - Implementing a Data Lake on the cloud (AWS, Databricks)
-  - Using Terraform
-  - Solid knowledge of GitLab and GitLab CI/CD
-  - Proficient in programming languages (Python, Scala, Java, C, C++)
-  - Strong knowledge of AWS
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-nobre-pro/)
-- ⚡ Fun fact: I enjoy anime and gaming!
-- 🧩 I am curious, adaptable, and easygoing, always open to new challenges.
+I'm a **Senior Data Engineer based in Brazil**, focused on building reliable, scalable, and cost-efficient data platforms.
 
-### Certifications:
-- AWS Solution Architect Associate
-- Airflow Fundamentals
-- Databricks Lakehouse
-- Kafka Fundamentals
+My experience is mainly around **AWS, Databricks, Apache Spark, Python, SQL, and streaming architectures**, working across the entire data engineering lifecycle — from ingestion and transformation to orchestration, governance, observability, and production optimization.
 
+I enjoy solving real engineering problems, especially when they involve **large-scale data, performance, reliability, and cloud cost optimization**.
 
-<h3 align="center"></h3>
+---
 
+## 🚀 What I Work With
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- **Data Engineering:** Python, SQL, PySpark, Apache Spark
+- **Cloud:** AWS — S3, Glue, Athena, Kinesis, MSK, DMS, SQS, MWAA
+- **Lakehouse:** Databricks, Delta Lake, Unity Catalog
+- **Streaming:** Kafka, Spark Structured Streaming, Kinesis
+- **Orchestration:** Apache Airflow / MWAA
+- **Infrastructure:** Terraform, Docker, Kubernetes
+- **CI/CD:** GitLab CI/CD, Git
+- **Data Architecture:** Bronze / Silver / Gold, batch & streaming pipelines
+- **Data Governance:** Catalog, lineage, data quality, observability
+- **Testing:** Pytest and automated pipeline validation
 
-<p><img align="left" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasnobrepro&show_icons=true&locale=en&layout=compact" alt="lucasnobrepro" /></p>
+---
 
-<p>&nbsp;<img align="center"  width="395px" src="https://github-readme-stats.vercel.app/api?username=lucasnobrepro&show_icons=true&locale=en" alt="lucasnobrepro" /></p>
+## 🏗️ What I Like Building
+
+I’m particularly interested in projects involving:
+
+- ⚡ Real-time and near-real-time data pipelines
+- 🏞️ Modern Lakehouse architectures
+- 🔄 Batch and streaming data processing
+- 📊 Analytics-ready data platforms
+- 💰 Cloud cost and Spark performance optimization
+- 🔐 Data governance and access control
+- 🧪 Data quality and automated testing
+- 🏗️ Infrastructure as Code
+- 📈 Reliable and observable production pipelines
+
+---
+
+## 💡 Engineering Mindset
+
+For me, data engineering is not just about moving data from A to B.
+
+I care about building platforms that are:
+
+**Reliable → Scalable → Observable → Maintainable → Cost-efficient**
+
+I like understanding the problem behind the pipeline, choosing the right architecture, and making sure the solution works well in production — not only in a development environment.
+
+---
+
+## 🔥 Some of My Experience
+
+Throughout my career, I've worked with data platforms processing **large volumes of data**, including both traditional batch workloads and real-time streaming systems.
+
+Some of the problems I've worked on include:
+
+- Reducing critical data latency from **hours to seconds** using Kafka and Spark Structured Streaming.
+- Optimizing Spark workloads and storage strategies to reduce **cloud infrastructure costs**.
+- Designing **Bronze/Silver/Gold** data architectures using Databricks and Delta Lake.
+- Building and maintaining production pipelines orchestrated with **Airflow**.
+- Managing infrastructure and data platform resources using **Terraform**.
+- Implementing data governance, cataloging, lineage, quality checks, and observability.
+- Troubleshooting production pipelines involving **Kafka, Spark, AWS, Databricks, and distributed systems**.
+
+---
+
+## 🎓 Certifications
+
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🧱 **Databricks Certified Data Engineer**
+
+---
+
+## 📚 Currently Exploring
+
+I'm continuously improving my knowledge around:
+
+- Advanced Databricks & Lakehouse architecture
+- Distributed data processing
+- Streaming architectures
+- Data platform architecture
+- Cloud optimization
+- Data governance
+- Infrastructure as Code
+- Modern data engineering patterns
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on **data engineering, cloud, Lakehouse, and distributed data projects**.
+
+If you're working on something involving **AWS, Databricks, Spark, Python, or large-scale data**, feel free to reach out.
+
+📍 Brazil  
+💼 Senior Data Engineer  
+☁️ AWS + Databricks  
+⚡ Batch + Streaming  
+🐍 Python + PySpark + SQL
